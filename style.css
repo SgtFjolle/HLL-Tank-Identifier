@@ -209,8 +209,7 @@ hr {
 }
 
 #army-image {
-  max-width: 60rem;     /* limits image width */
-  max-height: 40rem;    /* limits image height */
+  max-width: 95vw;     /* limits image width */
   width: 100%;          /* scales down if screen is smaller */
   height: auto;         /* maintain aspect ratio */
   object-fit: contain;  /* ensures image fits inside box */
